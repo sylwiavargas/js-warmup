@@ -4,8 +4,8 @@ This repository contains notes from my intro to JS lecture for students with a R
 
 ---
 **Table of contents**
-- [Intro to JS ✨](#0-intro-to-js)
-- [Terminology 📚](#terminology)
+- [Intro to JS ✨](#0-intro-to-js-✨)
+- [Terminology 📚](#terminology-📚)
 
 ---
 ## 0: Intro to JS ✨

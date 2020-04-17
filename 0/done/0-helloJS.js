@@ -1,3 +1,7 @@
+// uncomment whatever you want to test!
+// to test it, run the file by invoking node ./0-helloJS.js 
+//  you can also use node -> it's JS equivalent to Ruby's irb
+
 //////////////// VARIABLES //////////////// 
 //////////  IN JAVASCRIPT YOU HAVE THREE LOCAL VARIABLES:
 // "let" allows you to change the value or datatype of the variable

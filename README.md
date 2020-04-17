@@ -11,8 +11,8 @@ This repository contains notes from my intro to JS lecture for students with a R
 
 ---
 ## Intro to JS
-[video](https://wework.zoom.com/rec/share/-eNRBOHh20VOT8_JzHP4ZbUPJKbveaa80ClI_aYOnR5zgPXK-h7E6DB3TMbaWggz?startTime=1587153698000)
-[code] (https://github.com/sylwiavargas/js-warmup/tree/master/0)
+- [video](https://wework.zoom.com/rec/share/-eNRBOHh20VOT8_JzHP4ZbUPJKbveaa80ClI_aYOnR5zgPXK-h7E6DB3TMbaWggz?startTime=1587153698000)
+- [code](https://github.com/sylwiavargas/js-warmup/tree/master/0)
 
 ### Leading questions:
 - What is JavaScript?

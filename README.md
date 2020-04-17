@@ -4,11 +4,11 @@ This repository contains notes from my intro to JS lecture for students with a R
 
 ---
 **Table of contents**
-- [Intro to JS ✨](#0-intro-to-js-✨)
-- [Terminology 📚](#terminology-📚)
+- [Intro to JS ✨](#0-intro-to-js)
+- [Terminology 📚](#terminology)
 
 ---
-## 0: Intro to JS ✨
+## Intro to JS
 
 ### Leading questions:
 - What is JavaScript?
@@ -40,7 +40,7 @@ This repository contains notes from my intro to JS lecture for students with a R
     - a callback?
 
 ---
-## Terminology 📚
+## Terminology
 
 **EVENT LISTENER**:
 >A function that "listens" to an event (e.g. a click, a keyboard typing) on the website.

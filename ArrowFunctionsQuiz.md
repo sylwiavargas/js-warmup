@@ -18,8 +18,9 @@ function sum(num1, num2){
     return num1 + num2
 }
 
-sum(2,2)
-sum(4,5)
+sum(40,2)
+sum(42,0)
+console.log("the answer to everything is", sum(42,0))
 ```
 
 <details><summary>ANSWER - CLICK ME!</summary>

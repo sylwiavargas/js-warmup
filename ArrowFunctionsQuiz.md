@@ -110,7 +110,7 @@ As you see, here you need an explicit return statement and curly brackets becaus
 Transform this function that selects a random element from the array and concatenates it to your name:
 
 ```js
-let alerts = ["Hey, you are awesome", "You are so wonderful", "You are so huggable", "What a marvel you are", "You're so lovely", "You're so sweet that I'd think you're a sweet potato -- and I LOOOOVE POTATOES"]
+let alerts = ["Hey, you are awesome", "You are so wonderful", "What a marvel you are", "You're so lovely", "You're so sweet that I'd think you're a sweet potato -- and I LOOOOVE POTATOES"]
 
 function showAlert(name){    
     alert(alerts[(Math.floor(Math.random()*alerts.length))] + `, ${name}!`)

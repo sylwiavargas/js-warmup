@@ -1,4 +1,4 @@
-## Transforming functions into arrow functions: practice quiz
+# Transforming functions into arrow functions: practice quiz
 
 As a follow up of [my previous blog post on arrow functions](https://dev.to/sylwiavargas/arrow-functions-a-walkthrough-and-gotchas-4p4p), I thought I would create a little playground for you all to practice!
 

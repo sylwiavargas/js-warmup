@@ -10,7 +10,7 @@ As a follow up of [my previous blog post on arrow functions](https://dev.to/sylw
 
 ***
 
-## [1]
+## [1] Two arguments
 
 Transform this function:
 ```js
@@ -22,7 +22,7 @@ sum(2,2)
 sum(4,5)
 ```
 
-<details><summary>ANSWER</summary>
+<details><summary>ANSWER - CLICK ME!</summary>
 
 This is a possible answer:
 
@@ -42,7 +42,7 @@ You can also use `let` but in that case your variable could be redefined later (
 
 ***
 
-## [2]
+## [2] One argument
 
 Transform this function that tells you how long a string is:
 
@@ -56,7 +56,7 @@ let longestCityNameInTheWorld = "Taumatawhakatangihangakoauauotamateaturipukakap
 stringLength(longestCityNameInTheWorld)
 ```
 
-<details><summary>ANSWER</summary>
+<details><summary>ANSWER - CLICK ME!</summary>
 
 This is a possible answer:
 
@@ -70,7 +70,7 @@ You don't need curly brackets because it's just one line.
 
 ***
 
-## [3]
+## [3] One argument, pt.2
 
 Let's change the previous function a bit to include a variable and a return statement:
 
@@ -84,7 +84,7 @@ function stringLength(str){
 stringLength("willynilly")
 ```
 
-<details><summary>ANSWER</summary>
+<details><summary>ANSWER - CLICK ME!</summary>
 
 This is a possible answer:
 
@@ -104,7 +104,7 @@ As you see, here you need an explicit return statement and curly brackets becaus
 
 ***
 
-## [4]
+## [4] One argument
 
 Transform this function that selects a random element from the array and concatenates it to your name:
 
@@ -118,7 +118,7 @@ function showAlert(name){
 showAlert("you ball of fluff")
 ```
 
-<details><summary>ANSWER</summary>
+<details><summary>ANSWER - CLICK ME!</summary>
 
 This is a possible answer:
 
@@ -134,7 +134,7 @@ const showAlert = (name) => {return alert(alerts[(Math.floor(Math.random()*alert
 
 ***
 
-## [5]
+## [5] Nested functions
 
 Transform this function that rotates elements in your browser + remember about transforming also the traditional function in the `.map`:
 
@@ -148,7 +148,7 @@ function oneTwoThreeRotate(){
 oneTwoThreeRotate()
 ```
 
-<details><summary>ANSWER</summary>
+<details><summary>ANSWER - CLICK ME!</summary>
 
 This is a possible answer:
 
